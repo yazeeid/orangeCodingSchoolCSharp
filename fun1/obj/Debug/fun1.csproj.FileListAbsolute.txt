@@ -1,0 +1,7 @@
+C:\Users\yazee\source\repos\taskThree\fun1\obj\Debug\fun1.csproj.AssemblyReference.cache
+C:\Users\yazee\source\repos\taskThree\fun1\obj\Debug\fun1.csproj.CoreCompileInputs.cache
+C:\Users\yazee\source\repos\taskThree\fun1\bin\Debug\fun1.exe.config
+C:\Users\yazee\source\repos\taskThree\fun1\bin\Debug\fun1.exe
+C:\Users\yazee\source\repos\taskThree\fun1\bin\Debug\fun1.pdb
+C:\Users\yazee\source\repos\taskThree\fun1\obj\Debug\fun1.exe
+C:\Users\yazee\source\repos\taskThree\fun1\obj\Debug\fun1.pdb
